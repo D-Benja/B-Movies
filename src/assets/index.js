@@ -1,0 +1,14 @@
+export { default as homeIcon } from "./home.png";
+export { default as favouriteIcon } from "./favourite.png";
+export { default as tvShowIcon } from "./tv.png";
+export { default as videoCameraIcon } from "./video-camera.png";
+export { default as friendsIcon } from "./friends.png";
+export { default as notificationIcon } from "./notification.png";
+export { default as peopleIcon } from "./people.png";
+export { default as gamepadIcon } from "./gamepad.png";
+export { default as settingsIcon } from "./settings.png";
+export { default as helpIcon } from "./help.png";
+export { default as logoutIcon } from "./log-out.png";
+export { default as aboutIcon } from "./info.png";
+export { default as arrowRightIcon } from "./arrowRight.png";
+export { default as searchIcon } from "./search.png";
